@@ -12,3 +12,6 @@ Permite consultar el clima actual de una ciudad utilizando la API de OpenWeather
 **HTML:** Estructura de la página.
 
 **CSS:** Para el diseño.
+
+
+https://clima-naw.netlify.app/
